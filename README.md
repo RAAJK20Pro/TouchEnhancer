@@ -2,7 +2,7 @@
 
 TouchEnhancer improves touch response, UI smoothness, Display Visual and overall device fluidity.
 
-It applies real-time system tweaks and persistent SurfaceFlinger optimizations via build.prop for better frame timing, lower input latency, smoother animations, and reduced jitter — ideal for high refresh rate displays.
+It applies real-time system tweaks and persistent SurfaceFlinger optimizations via build.prop for better frame timing, lower input latency, smoother animations, and reduced jitter — ideal for high refresh  rate  displays.
 ( Best For Gaming )
 
 # Tweaks :
