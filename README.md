@@ -10,7 +10,7 @@ It applies real-time system tweaks and persistent SurfaceFlinger optimizations v
 
 2• Frame timing & UI pipeline tuning
 
-3• SurfaceFlinger duration & vsync tweaks
+3• SurfaceFlinger duration & vsync
 
 4• Optional kernel-level enhancements
 
