@@ -1,8 +1,6 @@
 📢  **TouchEnhancer** V1.0
 
-🔥 Boost your scrolling, animations &
-
-touch responsiveness on your device!
+🔥 Boost your scrolling, animations & touch responsiveness on your device!
 
 ✨ **Features**
 
