@@ -42,7 +42,8 @@ Stock configurations prioritize balance. TouchEnhancer focuses on improving inpu
 ## Compatibility
 
 - Magisk  
-- KernelSU  
+- KernelSU
+- Apatch
 
 ---
 
